@@ -1,3 +1,3 @@
-# HackerRank_Java
+# hackerrank-java
 
 My solutions to HackerRank problems with Java.
